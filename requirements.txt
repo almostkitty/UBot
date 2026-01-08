@@ -1,0 +1,5 @@
+aiogram
+mutagen
+asynco
+yt_dlp
+dotenv
